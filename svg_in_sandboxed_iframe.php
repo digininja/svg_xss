@@ -17,9 +17,6 @@
 	<p>The SVG is served in an iframe which has the sandbox attribute set to prevent scripts from being executed.</p>
 	<iframe sandbox src="xss.svg" frameborder="0" width="100%" height="538px"></iframe> 
 
-	<hr />
-	<p>
-		Demo created by Robin Wood - <a href="https://digi.ninja">DigiNinja</a>
-	</p>
+	<?php require_once ("footer.inc.php"); ?>
 </body>
 </html>

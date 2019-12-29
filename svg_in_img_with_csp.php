@@ -23,9 +23,6 @@ header("Content-Security-Policy: default-src 'self';script-src https://www.googl
 	<img src="xss.svg" alt="SVG with XSS" />
 	</p>
 
-	<hr />
-	<p>
-		Demo created by Robin Wood - <a href="https://digi.ninja">DigiNinja</a>
-	</p>
+	<?php require_once ("footer.inc.php"); ?>
 </body>
 </html>

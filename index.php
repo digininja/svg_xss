@@ -36,9 +36,6 @@
 		It has also been pointed out that if you need to allow untrusted SVG files to be served from your site that it is best to store and serve them from a different subdomain to prevent attacks against the main domain.
 	</p>
 
-	<hr />
-	<p>
-		Demo created by Robin Wood - <a href="https://digi.ninja">DigiNinja</a>
-	</p>
+	<?php require_once ("footer.inc.php"); ?>
 </body>
 </html>

@@ -1,0 +1,4 @@
+<hr />
+<p>
+	Lab created by Robin Wood - <a href="https://digi.ninja">DigiNinja</a>
+</p>
